@@ -1,3 +1,3 @@
 # 01_Robot_Zombies
 
-First game that I've completed on my own.
+2D side scrolling platformer shooting game, made with Unity game engine.
