@@ -1,0 +1,134 @@
+PLAYER
+	#move 
+	#jump
+	double jump
+	running
+	
+	#laser - no collision with palyer, laser impact on enemy and ground animation 
+	continous laser firing
+	#click by click laser firing
+	#laser damage on enemy
+	enemy health show
+	#laser shot sound 
+	laser hit sound
+	#laser lifetime
+	#laser shot delay inbetween
+	
+	death - falling down
+	#death by laser for zombie enemy
+	# death by enemy contact
+	#death by spikes
+	death from contraptions
+	#death by saw
+	death from dornes
+	dying sound
+	death animation.
+	#death particles
+	
+	
+	#health	system- add, remove, reset on respwaning
+	#life	 system- add, remove, reset
+	gameover
+	pausemenu
+	
+	moving data from scene to scene
+	
+	#knockoff on hitting enemy
+	#kill enemy - with laser
+	
+	health bar
+	life indicator
+	time indicator
+	
+	spwan animation
+	points on killing enemy
+	remove points on death
+	Next layer waypoint
+	check points
+	#level manager
+	
+ENEMY
+	#move - patrol , ground check, edge check
+	
+	#laser - no colision with enemy , laser impact on player and ground
+	#laser life time
+	#laser damage on player
+	#laser shot sound
+	laser hit sound
+	
+	#death particle
+	#health system
+	health bar
+	
+	#kill player- with laser, with collision	
+	#contact damage on player
+	
+	dying sound
+	death animation
+	
+KILLING CONTRAPTIONS
+	#kill player
+	#damage on player
+	#no collisin with enemy
+	#animation
+	#sound
+	# saw spark particles ( coolest)
+	# saw moving
+	# saw and base moving
+
+Drones
+	shoot player
+	follow player in range
+	rotate gun to player positino
+	booster sound
+	booster animation
+	shot sound
+	shot particles
+	
+	got hit sound
+	death particles
+	
+SPIKES
+	#cannot kill spikes
+	#player death on contact
+	#no contact with enemies
+	
+ELECTRIC WALLS AND THINGS
+	cannot kill this
+	player death on contact
+	no effect on enemies
+	
+CONTINOUS LASER BEAMS
+	cannot kill this
+	player death on contact
+	no effect on enemies
+	
+BOXES
+	#move them. push and pull boxes around
+	# decrease player speed on push or pulling boxes
+	destroy boxes
+	
+Levels 
+	level Select gui
+
+GUI
+	player health
+	player life
+	time to finish the round
+	
+	for mobiles all controls to control the player
+
+GameOver 
+	
+	
+Main menu
+	new game
+	select level
+	exit
+	
+Pause
+	resume
+	restart
+	level select 
+	main menu
+	quit

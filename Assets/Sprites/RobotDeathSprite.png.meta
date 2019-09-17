@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: a8cae19e5c57a4c49b71c31872a2d898
+timeCreated: 1466685782
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotDeathSprite_0
+    21300002: RobotDeathSprite_1
+    21300004: RobotDeathSprite_2
+    21300006: RobotDeathSprite_3
+    21300008: RobotDeathSprite_4
+    21300010: RobotDeathSprite_5
+    21300012: RobotDeathSprite_6
+    21300014: RobotDeathSprite_7
+    21300016: RobotDeathSprite_8
+    21300018: RobotDeathSprite_9
+    21300020: RobotDeathSprite_10
+    21300022: RobotDeathSprite_11
+    21300024: RobotDeathSprite_12
+    21300026: RobotDeathSprite_13
+    21300028: RobotDeathSprite_14
+    21300030: RobotDeathSprite_15
+    21300032: RobotDeathSprite_16
+    21300034: RobotDeathSprite_17
+    21300036: RobotDeathSprite_18
+    21300038: RobotDeathSprite_19
+    21300040: RobotDeathSprite_20
+    21300042: RobotDeathSprite_21
+    21300044: RobotDeathSprite_22
+    21300046: RobotDeathSprite_23
+    21300048: RobotDeathSprite_24
+    21300050: RobotDeathSprite_25
+    21300052: RobotDeathSprite_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotDeathSprite_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1777
+        width: 160
+        height: 207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1778
+        width: 140
+        height: 223
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1780
+        width: 154
+        height: 249
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1795
+        width: 213
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1821
+        width: 242
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1829
+        width: 258
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1861
+        width: 258
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_7
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1514
+        width: 210
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1510
+        width: 215
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_9
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1518
+        width: 207
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1534
+        width: 225
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1553
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1569
+        width: 239
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1579
+        width: 253
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1246
+        width: 215
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1252
+        width: 217
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_16
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1245
+        width: 224
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1235
+        width: 230
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1228
+        width: 229
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1222
+        width: 225
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_20
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1223
+        width: 234
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_21
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 948
+        width: 234
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_22
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 948
+        width: 231
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_23
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 950
+        width: 235
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_24
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 950
+        width: 233
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 950
+        width: 235
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotDeathSprite_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 949
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: bafe0cede96fc434ab37798a2267bf81
+timeCreated: 1466411930
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotWalkingSprite_0
+    21300002: RobotWalkingSprite_1
+    21300004: RobotWalkingSprite_2
+    21300006: RobotWalkingSprite_3
+    21300008: RobotWalkingSprite_4
+    21300010: RobotWalkingSprite_5
+    21300012: RobotWalkingSprite_6
+    21300014: RobotWalkingSprite_7
+    21300016: RobotWalkingSprite_8
+    21300018: RobotWalkingSprite_9
+    21300020: RobotWalkingSprite_10
+    21300022: RobotWalkingSprite_11
+    21300024: RobotWalkingSprite_12
+    21300026: RobotWalkingSprite_13
+    21300028: RobotWalkingSprite_14
+    21300030: RobotWalkingSprite_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotWalkingSprite_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1784
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1786
+        width: 98
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1787
+        width: 96
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_3
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1786
+        width: 92
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1779
+        width: 88
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1778
+        width: 89
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1788
+        width: 91
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1516
+        width: 95
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1515
+        width: 94
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1511
+        width: 89
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_10
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1510
+        width: 88
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1508
+        width: 86
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1506
+        width: 90
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1504
+        width: 97
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1231
+        width: 102
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotWalkingSprite_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1236
+        width: 105
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

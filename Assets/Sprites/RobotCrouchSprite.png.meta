@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: c15eaabcf13044644b18d9f30938b7bd
+timeCreated: 1466769519
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotCrouchSprite_0
+    21300002: RobotCrouchSprite_1
+    21300004: RobotCrouchSprite_2
+    21300006: RobotCrouchSprite_3
+    21300008: RobotCrouchSprite_4
+    21300010: RobotCrouchSprite_5
+    21300012: RobotCrouchSprite_6
+    21300014: RobotCrouchSprite_7
+    21300016: RobotCrouchSprite_8
+    21300018: RobotCrouchSprite_9
+    21300020: RobotCrouchSprite_10
+    21300022: RobotCrouchSprite_11
+    21300024: RobotCrouchSprite_12
+    21300026: RobotCrouchSprite_13
+    21300028: RobotCrouchSprite_14
+    21300030: RobotCrouchSprite_15
+    21300032: RobotCrouchSprite_16
+    21300034: RobotCrouchSprite_17
+    21300036: RobotCrouchSprite_18
+    21300038: RobotCrouchSprite_19
+    21300040: RobotCrouchSprite_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotCrouchSprite_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1783
+        width: 201
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1784
+        width: 200
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1779
+        width: 187
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_3
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1772
+        width: 168
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1783
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1784
+        width: 174
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1784
+        width: 181
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1508
+        width: 185
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1504
+        width: 187
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1506
+        width: 191
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1508
+        width: 194
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1508
+        width: 195
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1508
+        width: 187
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1508
+        width: 169
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1230
+        width: 158
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1232
+        width: 175
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1232
+        width: 184
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1234
+        width: 184
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1230
+        width: 191
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1232
+        width: 196
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotCrouchSprite_20
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1235
+        width: 201
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: cbe47eaa75545414a843b9aeeeaadce5
+timeCreated: 1466502464
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotZombiesSprite_0
+    21300002: RobotZombiesSprite_1
+    21300004: RobotZombiesSprite_2
+    21300006: RobotZombiesSprite_3
+    21300008: RobotZombiesSprite_4
+    21300010: RobotZombiesSprite_5
+    21300012: RobotZombiesSprite_6
+    21300014: RobotZombiesSprite_7
+    21300016: RobotZombiesSprite_8
+    21300018: RobotZombiesSprite_9
+    21300020: RobotZombiesSprite_10
+    21300022: RobotZombiesSprite_11
+    21300024: RobotZombiesSprite_12
+    21300026: RobotZombiesSprite_13
+    21300028: RobotZombiesSprite_14
+    21300030: RobotZombiesSprite_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotZombiesSprite_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1708
+        width: 111
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1708
+        width: 111
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1711
+        width: 103
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_3
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1708
+        width: 95
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1702
+        width: 94
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1701
+        width: 96
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1711
+        width: 99
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1439
+        width: 100
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1438
+        width: 102
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_9
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1432
+        width: 97
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_10
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1432
+        width: 94
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1432
+        width: 94
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1429
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1427
+        width: 109
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1154
+        width: 111
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotZombiesSprite_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1159
+        width: 111
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
